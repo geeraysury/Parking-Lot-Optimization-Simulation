@@ -1,3 +1,4 @@
+FIRST YEAR PROJECT
 Classes Overview:
 1. ParkingLot Class
 * Manages the parking lot operations.
